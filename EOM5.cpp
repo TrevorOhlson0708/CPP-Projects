@@ -2,7 +2,6 @@
 // EOM 5
 // Proffesor Fowler
 // 12 / 11 / 25
-
 #include <iostream>
 #include <cmath>
 using namespace std;
